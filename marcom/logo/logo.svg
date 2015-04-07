@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 400 400" width="400pt" height="400pt">
+  <defs>
+    <font-face font-family="DIN Alternate" font-size="96" panose-1="2 11 5 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-100.097656" underline-thickness="49.804688" slope="0" x-height="717.77344" cap-height="717.77344" ascent="937.9883" descent="-226.07422" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="DINAlternate-Bold" />
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 2</title>
+    <rect fill="white" width="400" height="400" />
+    <g>
+      <title>Layer 1</title>
+      <rect x="35.883942" y="86.047504" width="196.22165" height="196.22164" id="path" />
+      <clipPath id="clip_path">
+        <use xl:href="#path" />
+      </clipPath>
+      <g clip-path="url(#clip_path)">
+        <image xl:href="image1.png" width="256" height="256" opacity=".3888889" transform="translate(35.383942 85.547504) scale(.7664908)" />
+      </g>
+      <path d="M 319.19402 275.9244 C 320.14395 275.05262 321.08247 274.16205 322.0091 273.25267 C 366.82374 229.27223 366.82374 157.96592 322.0091 113.98549 C 277.19467 70.004836 204.5362 70.004836 159.72179 113.98549 C 114.90714 157.96592 114.90714 229.27223 159.72179 273.25267 C 192.60977 305.52877 240.49361 314.1184 281.36327 299.02154 L 331.02975 339 Z" fill="black" />
+      <text transform="translate(148.88653 104.0686)" fill="white">
+        <tspan font-family="DIN Alternate" font-size="96" font-weight="bold" fill="white" x="0" y="90" textLength="168.84375">chat</tspan>
+      </text>
+      <text transform="translate(183.92611 176.33774)" fill="white">
+        <tspan font-family="DIN Alternate" font-size="96" font-weight="bold" fill="white" x="0" y="90" textLength="129.796875">me</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
